@@ -1,0 +1,5 @@
+{
+  "name": "PN Junction Master",
+  "description": "Interactive physics simulation of a PN junction diode for JEE students. Visualize depletion regions, biasing, and I-V characteristics.",
+  "requestFramePermissions": []
+}
